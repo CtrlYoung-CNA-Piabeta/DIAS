@@ -8,3 +8,5 @@ repositorio criado para armazenar as aulas do **ctrl+young**.
 - Staging area: area de preparaçao;
 - local repository: repositorio local que sera enviado para o Github;
 - remote repository: repositorio remoto (Github, Gitlab, BitBucket)
+
+esse repositorio pertece exclusivamente ao DIAS sem mais sem menos ninguem ok
