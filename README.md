@@ -10,3 +10,5 @@ repositorio criado para armazenar as aulas do **ctrl+young**.
 - remote repository: repositorio remoto (Github, Gitlab, BitBucket)
 
 esse repositorio pertece exclusivamente ao DIAS sem mais sem menos ninguem ok
+
+fala galangozadas como vcs estao bem vindo ao mais um video de programaçao com o seu professor wendell
